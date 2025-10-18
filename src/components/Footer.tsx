@@ -70,7 +70,7 @@ const Footer: React.FC = () => {
           >
             <div className="flex items-center mb-4">
               <img
-                src="/logo.jpg"
+                src="/logo.png"
                 alt="Дизель Техник"
                 className="h-10 w-auto mr-3"
               />
